@@ -5,6 +5,30 @@ var newArrCard = numberCard.split ("");
 //Invertir el arreglo
 var up = newArrCard.reverse();
 //
+console.log(up);
+
+
+
+var isValidCard = function(validNum){
+ 
+var validNum = [];
+	for (var i = 0; i < up.length; i ++){
+		if([i] % 2 !== 0);{
+			console.log(i);
+		}
+	}
+
+}
+isValidCard(up);
+
+
+
+
+
+
+
+
+
 
 for(i in up){
 	if(up % 2 === 0){

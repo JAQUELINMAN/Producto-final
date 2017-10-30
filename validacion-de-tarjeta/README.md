@@ -3,7 +3,7 @@
 ### Validación de una tarjeta
 
 1. Preguntar al usuario por medio de un prompt() cual es el número de su tarjeta.
-3. Guardarlos en una variable para convertir la cifra en arreglos.
+2. Guardarlos en una variable para convertir la cifra en arreglos.
 3. Invertir el orden de los arreglos.
 4. Una vez invertida la cifra, todos los numero que se encuentren en las posiciones pares se deben multiplicar por dos y si su resultado es igual o mayor a 10 se deben de sumar los dígitos de su resultado.
 Ejemplo 1. Si nuestro número es 3, se debe de multiplicar por 2, 3*2 = 6, debido a que la multiplicación dio como resultado una cifra menor no se sumaran sus dígitos y solo se pondrá el resultado de la multiplicación en el lugar de 3 (lo sustituirá). 
