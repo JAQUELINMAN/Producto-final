@@ -11,4 +11,4 @@ Ejemplo 2. Si nuestro número es 8, se debe de multiplicar por 2, 6*2 = 12, debi
 5. Una vez realizada esta instrucciones a los números pares, los números nones se deber poner junto a los nuevos dígitos y realizar una suma de todos ellos.
 6. El resultado obtenido se deberá  dividir entre 10, si su residuo es 0, tu tarjeta es VALIDA; si no lo es, tu tarjeta es INVALIDA y deberás de cambiar de banco. 
 
-![diagrama-de-flujo](http://subefotos.com/ver/?3a31ba1c720ef79532ccb500468db55eo.png)
+![Diagrama de flujo](http://thumbs.subefotos.com/3a31ba1c720ef79532ccb500468db55eo.jpg)
